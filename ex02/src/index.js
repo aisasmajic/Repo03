@@ -9,8 +9,9 @@ function main() {
        */
 
     // Only changes code abowe this line  
-    console.log(main()) ;
+    
 }
+console.log(main()) ;
 
 
 
